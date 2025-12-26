@@ -64,19 +64,28 @@ Open `index.html` in your browser or deploy on GitHub Pages / Netlify.
      git clone https://github.com/suyxcode-18/Wave-Cafe.git
      cd Wave-Cafe
 ```
+---
 
 **📸 Screenshots**
 
 ![](./img/sk.png)
 
-🤝 Contributing
+---
+
+## 🤝 Contributing
+---
 
 Pull requests are welcome. For major changes, please open an issue first.
 
-📄 License
+---
+
+## 📄 License
+---
 
 This project is licensed under the suyxcode-18 License.
 
+
+---
 
 
 
