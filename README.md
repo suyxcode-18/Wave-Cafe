@@ -53,8 +53,8 @@ It features a clean UI, responsive layout, and a video background to create an e
 
 ## 🚀 Live Preview
 
-Open `index.html` in your browser or deploy on GitHub Pages / Netlify.
-link : https://suyxcode-18.github.io/Wave-Cafe/
+- Open `index.html` in your browser or deploy on GitHub Pages / Netlify.
+- link : https://suyxcode-18.github.io/Wave-Cafe/
 
 
 ---
